@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blackcuarzo
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning the Full Stack React stack
+- 👀 I’m interested in Web and Mobile development
+- 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on web projects. 
 - 📫 How to reach me https://twitter.com/ldanielcano. DM if you want to :3
 
